@@ -1,0 +1,24 @@
+.login-form {
+  font-size: 1rem;
+
+  .form-field {
+    margin-bottom: 0.5rem;
+  }
+
+  input {
+    font-size: 1rem;
+    padding: 0.4rem;
+  }
+
+  .error-field {
+    padding: 0.5rem 0;
+  }
+
+  button {
+    padding: 0.6rem 1.2rem;
+    border: none;
+    background-color: #0e8dd7;
+    color: #00193d;
+    font: 600 16px "Roboto";
+  }
+}

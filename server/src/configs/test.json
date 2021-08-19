@@ -1,0 +1,18 @@
+{
+  "env": "test",
+  "dbConfig": {
+    "host": "localhost",
+    "database": "urlshortener",
+    "port": 27017
+  },
+  "secretKey": "secretKey",
+  "log": {
+    "format": "dev",
+    "dir": "../logs"
+  },
+  "cors": {
+    "origin": true,
+    "credentials": true
+  },
+  "baseUrl": "http://localhost:5000"
+}
